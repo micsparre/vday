@@ -13,9 +13,9 @@ export default function Vday() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
+      "Are you sure? >:-)",
       "Really sure?",
-      "Think again!",
+      "Think again! >:-(",
       "Last chance!",
       "Surely not?",
       "You might regret this!",
@@ -23,9 +23,9 @@ export default function Vday() {
       "Are you absolutely certain?",
       "This could be a mistake!",
       "Have a heart!",
-      "Don't be so cold!",
+      "Why so cold!",
       "Change of heart?",
-      "Wouldn't you reconsider?",
+      "Can't you reconsider?",
       "Is that your final answer?",
       "You're breaking my heart ;(",
     ];
